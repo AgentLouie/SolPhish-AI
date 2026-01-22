@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+solana
+scikit-learn
+pandas
+numpy
+httpx
+solders
