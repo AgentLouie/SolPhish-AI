@@ -47,7 +47,7 @@ export default function Home() {
       {/* NAVBAR */}
       <nav className="w-full p-6 flex justify-center border-b border-white/5 backdrop-blur-md sticky top-0 z-50">
         <div className="max-w-4xl w-full flex items-center gap-3">
-          <Shield className="w-8 h-8 text-purple-500" />
+          <img src="/icon.png" alt="SolPhish Logo" className="w-8 h-8" />
           <h1 className="text-xl font-bold tracking-wider">
             SOLPHISH <span className="text-purple-500">AI</span>
           </h1>
